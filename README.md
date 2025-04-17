@@ -1,0 +1,1 @@
+A Quote Generator web page utilising [Forismatic API](https://forismatic.com/en/api/)
